@@ -1,0 +1,52 @@
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\obj\Debug\FreebaseViz.csproj.App.config
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\obj\Debug\FreebaseViz.csprojResolveAssemblyReference.cache
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\FreebaseViz.dll.config
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\FreebaseViz.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\FreebaseViz.pdb
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\Neo4jClient.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\Newtonsoft.Json.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.IO.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.Extensions.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.Primitives.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.WebRequest.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Runtime.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Threading.Tasks.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\Neo4jClient.pdb
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\Neo4jClient.xml
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\Newtonsoft.Json.xml
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.IO.xml
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.xml
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.Extensions.xml
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.Primitives.xml
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.WebRequest.xml
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Runtime.xml
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\bin\System.Threading.Tasks.xml
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\obj\Debug\FreebaseViz.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Interactive schema explorer\SchemaVisualiser\SchemaVisualiser\obj\Debug\FreebaseViz.pdb
+F:\SchemaVisualiser\SchemaVisualiser\bin\FreebaseViz.dll.config
+F:\SchemaVisualiser\SchemaVisualiser\bin\FreebaseViz.dll
+F:\SchemaVisualiser\SchemaVisualiser\bin\FreebaseViz.pdb
+F:\SchemaVisualiser\SchemaVisualiser\bin\Neo4jClient.dll
+F:\SchemaVisualiser\SchemaVisualiser\bin\Newtonsoft.Json.dll
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.IO.dll
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.dll
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.Extensions.dll
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.Primitives.dll
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.WebRequest.dll
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Runtime.dll
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Threading.Tasks.dll
+F:\SchemaVisualiser\SchemaVisualiser\bin\Neo4jClient.pdb
+F:\SchemaVisualiser\SchemaVisualiser\bin\Neo4jClient.xml
+F:\SchemaVisualiser\SchemaVisualiser\bin\Newtonsoft.Json.xml
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.IO.xml
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.xml
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.Extensions.xml
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.Primitives.xml
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Net.Http.WebRequest.xml
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Runtime.xml
+F:\SchemaVisualiser\SchemaVisualiser\bin\System.Threading.Tasks.xml
+F:\SchemaVisualiser\SchemaVisualiser\obj\Debug\FreebaseViz.csproj.App.config
+F:\SchemaVisualiser\SchemaVisualiser\obj\Debug\FreebaseViz.csprojResolveAssemblyReference.cache
+F:\SchemaVisualiser\SchemaVisualiser\obj\Debug\FreebaseViz.dll
+F:\SchemaVisualiser\SchemaVisualiser\obj\Debug\FreebaseViz.pdb

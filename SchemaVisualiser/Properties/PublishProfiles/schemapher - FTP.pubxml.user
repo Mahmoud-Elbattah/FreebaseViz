@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADM9IirYqlEqYb0q5tWbicQAAAAACAAAAAAADZgAAwAAAABAAAABxQbAcorDntrKZn13FFfLkAAAAAASAAACgAAAAEAAAAKGUZba8EOsMnMalOF4bt6+AAAAAcRvxhoBuPbLcdNIwfF1vZI72Zf6Nn/JJ4CLJshr/hwVBgdFoCPXG9tCYZb96J+s4z2FIF4feF+i3O76BTfyorJUZ7sJoOKpR+ZybxM8FvfPHWCK6tvBWLZZXsuYM1fEjSajeq8wLNHCs05CEUZANFCzaMeXfZs/bMyInHwuU8ZQUAAAAtktTgxoSe4NGPu8UcKhJ8trqzfk=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-am2-035.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Neo4jClient.dll">
+      <publishTime>08/01/2015 17:51:27</publishTime>
+    </File>
+    <File Include="bin/Neo4jClient.pdb">
+      <publishTime>08/01/2015 17:51:27</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/01/2015 17:51:27</publishTime>
+    </File>
+    <File Include="bin/SchemaVisualiser.dll">
+      <publishTime>08/19/2015 21:34:44</publishTime>
+    </File>
+    <File Include="bin/SchemaVisualiser.pdb">
+      <publishTime>08/19/2015 21:34:44</publishTime>
+    </File>
+    <File Include="bin/System.IO.dll">
+      <publishTime>08/01/2015 17:51:23</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>08/01/2015 17:51:26</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Extensions.dll">
+      <publishTime>08/01/2015 17:51:26</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Primitives.dll">
+      <publishTime>08/01/2015 17:51:26</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>08/01/2015 17:51:26</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.dll">
+      <publishTime>08/01/2015 17:51:23</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.dll">
+      <publishTime>08/01/2015 17:51:23</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/19/2015 21:21:01</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/20/2015 18:05:12</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/01/2015 17:51:54</publishTime>
+    </File>
+    <File Include="test.aspx">
+      <publishTime>08/17/2015 19:26:26</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/19/2015 21:34:46</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>07/14/2015 23:12:40</publishTime>
+    </File>
+    <File Include="WebForm2.aspx">
+      <publishTime>07/14/2015 23:49:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
