@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-static/* linguist-vendored
+* text=auto
 
 # Custom for Visual Studio
 *.cs     diff=csharp
@@ -16,4 +16,4 @@ static/* linguist-vendored
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-*.aspx linguist-language=csharp
+*.aspx linguist-language=ASP.NET
