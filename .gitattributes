@@ -16,4 +16,4 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-*.aspx linguist-language=ASP.NET
+*.aspx linguist-language=csharp
