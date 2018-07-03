@@ -7,6 +7,7 @@ FreebaseViz allows users to interact with the schema visualisations to filter an
 The FreebaseViz tool is explained in detail through the published paper below:
 
 Elbattah, M., Roushdy, M., Aref, M. and Salem, A.B.M., 2016, July. FreebaseViz: Interactive exploration of freebase schema using query-driven visualisation. In Communication, Management and Information Technology: Proceedings of the International Conference on Communication, Management and Information Technology (Iccmit 2016) (pp. 64-71). CRC Press.
+https://books.google.ie/books?id=0YSKDQAAQBAJ&pg=PT130
 
 Available at:
 http://freebaseviz.apphb.com/
